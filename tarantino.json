@@ -1,0 +1,19 @@
+{
+  "collection": {
+    "name": "Tarantino",
+    "seed": 222,
+    "number": 10,
+    "distance": 3,
+    "prefix": "ppl",
+    "output_dir": "output/",
+    "input_dir": "Quentin Tarantino/"
+  },
+
+  "traits" : {
+    "backgrounds" : ["Circular Gradient", "Solid Color", "Tarantino Films"],
+    "accessories": [
+        "Eyes", "Hat"
+    ]
+  }
+}
+

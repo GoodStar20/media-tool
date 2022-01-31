@@ -1,0 +1,33 @@
+{
+    "description": "None",
+    "image": "None",
+    "name": "Unicorn #1",
+    "attributes": [
+        {
+              "trait_type": "Background",
+              "value": "Rectangle 1455.png"
+        },
+        {
+              "trait_type": "Hoodie",
+              "value": "Hunter's Orange Hoodie.png"
+        },
+        {
+              "trait_type": "Logo",
+              "value": "Hunter Orrell's Bored Ape.png"
+        },
+        {
+              "trait_type": "Head",
+              "value": "Cyber Pink Head.png"
+        },
+        {
+              "trait_type": "Horn",
+              "value": "Green Horn.png"
+        },
+        {
+              "trait_type": "Mane",
+              "value": "Purple Fire Mane.png"
+        },
+        {
+              "trait_type": "Eyes",
+              "value": "Purple VR Headset.png"
+        }]}

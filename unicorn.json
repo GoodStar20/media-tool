@@ -1,0 +1,29 @@
+{
+    "collection": {
+        "name": "Project Unicorn c/o 2022",
+        "description": "Welcome to Project Unicorn: An NFTs for Recognition Production; celebrating the BRIGHTEST MINDS in the room.  Inspired by Tech Unicorns, your Unicorn serves as membership to a first-of-its-kind NFT Crew that gathers to solve real world problems throughout the year.  Project Unicorn is recruiting unknown, struggling artists for our future drops. Join our Discord to learn how to submit your art!  Unique events for Unicorn NFT holders are being planned each month, plus an annual global event for recognizing the most brilliant Unicorns of the year! #WAGMI",
+        "seed": 222,
+        "number": 3,
+        "distance": 3,
+        "prefix": "ppl",
+        "sname": "unicorns",
+        "output_dir": "output/",
+        "input_dir": "Project Unicorn V2/",
+        "seller_fee_basis_points": 1111,
+        "fee_recipient": "0x9Ced0EACd19464794f7b8879A33C61033C951Fb2"
+    },
+
+    "traits" : {
+        "backgrounds" : ["Solid Color", "Tech Unicorns"],
+        "accessories": [
+            "Eyes", "Horn", "Hoodie", "Head", "Mane", "Logo"
+        ]
+    },
+
+    "settings" : {
+        "name": "ProjectUnicorn",
+        "symbol": "PUNI",
+        "network": "rinkeby"
+    }
+}
+
